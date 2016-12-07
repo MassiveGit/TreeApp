@@ -1,0 +1,255 @@
+2016-12-03 17:32:01,646 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml
+2016-12-03 17:32:04,220 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 17:32:05,094 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2016-12-03 17:32:05,101 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2016-12-03 17:32:05,626 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2016-12-03 17:32:06,348 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:32:06,349 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 17:32:06,351 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:32:06,352 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 17:32:22,954 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:32:22,955 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 17:32:22,955 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:32:22,955 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 17:34:47,132 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:34:47,132 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 17:34:47,134 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:34:47,141 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 17:34:52,432 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:34:52,433 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 17:34:52,433 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:34:52,437 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 17:41:21,587 [Worker-25] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 17:41:21,767 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:41:21,771 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 17:41:21,777 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:41:21,777 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 17:50:00,771 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.pom
+2016-12-03 17:50:02,317 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-plugins/30/maven-plugins-30.pom
+2016-12-03 17:50:03,889 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-parent/30/maven-parent-30.pom
+2016-12-03 17:50:05,464 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/apache/18/apache-18.pom
+2016-12-03 17:50:06,944 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2016-12-03 17:50:08,083 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-jar-plugin/3.0.2/maven-jar-plugin-3.0.2.jar
+2016-12-03 17:50:09,747 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.pom
+2016-12-03 17:50:11,142 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-containers/1.6/plexus-containers-1.6.pom
+2016-12-03 17:50:12,674 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus/3.3.2/plexus-3.3.2.pom
+2016-12-03 17:50:14,317 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.pom
+2016-12-03 17:50:15,828 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/shared/maven-shared-components/30/maven-shared-components-30.pom
+2016-12-03 17:50:17,289 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.pom
+2016-12-03 17:50:18,823 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/commons-io/commons-io/2.5/commons-io-2.5.pom
+2016-12-03 17:50:20,282 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-archiver/3.3/plexus-archiver-3.3.pom
+2016-12-03 17:50:21,802 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.pom
+2016-12-03 17:50:23,199 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus/4.0/plexus-4.0.pom
+2016-12-03 17:50:24,617 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.pom
+2016-12-03 17:50:26,094 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/commons/commons-compress/1.11/commons-compress-1.11.pom
+2016-12-03 17:50:27,725 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/iq80/snappy/snappy/0.4/snappy-0.4.pom
+2016-12-03 17:50:29,203 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/tukaani/xz/1.5/xz-1.5.pom
+2016-12-03 17:50:30,690 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.pom
+2016-12-03 17:50:32,211 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2016-12-03 17:50:33,032 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-plugin-api/3.0/maven-plugin-api-3.0.jar
+2016-12-03 17:50:34,425 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2016-12-03 17:50:35,210 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-model/3.0/maven-model-3.0.jar
+2016-12-03 17:50:36,743 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2016-12-03 17:50:37,576 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/sisu/sisu-inject-plexus/1.4.2/sisu-inject-plexus-1.4.2.jar
+2016-12-03 17:50:39,074 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2016-12-03 17:50:39,880 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-core/3.0/maven-core-3.0.jar
+2016-12-03 17:50:42,453 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2016-12-03 17:50:43,336 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-settings/3.0/maven-settings-3.0.jar
+2016-12-03 17:50:44,706 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2016-12-03 17:50:45,529 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-settings-builder/3.0/maven-settings-builder-3.0.jar
+2016-12-03 17:50:46,898 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2016-12-03 17:50:47,720 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-repository-metadata/3.0/maven-repository-metadata-3.0.jar
+2016-12-03 17:50:49,104 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2016-12-03 17:50:49,895 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-model-builder/3.0/maven-model-builder-3.0.jar
+2016-12-03 17:50:51,366 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2016-12-03 17:50:52,094 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-aether-provider/3.0/maven-aether-provider-3.0.jar
+2016-12-03 17:50:53,484 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2016-12-03 17:50:54,287 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/aether/aether-impl/1.7/aether-impl-1.7.jar
+2016-12-03 17:50:55,781 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2016-12-03 17:50:56,576 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/aether/aether-spi/1.7/aether-spi-1.7.jar
+2016-12-03 17:50:57,967 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2016-12-03 17:50:58,710 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/sonatype/aether/aether-api/1.7/aether-api-1.7.jar
+2016-12-03 17:51:00,118 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2016-12-03 17:51:01,089 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-classworlds/2.2.3/plexus-classworlds-2.2.3.jar
+2016-12-03 17:51:02,536 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+2016-12-03 17:51:03,238 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-component-annotations/1.6/plexus-component-annotations-1.6.jar
+2016-12-03 17:51:04,703 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2016-12-03 17:51:05,504 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-artifact/3.0/maven-artifact-3.0.jar
+2016-12-03 17:51:06,928 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2016-12-03 17:51:08,015 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/maven-archiver/3.1.1/maven-archiver-3.1.1.jar
+2016-12-03 17:51:09,409 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2016-12-03 17:51:10,139 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/shared/maven-shared-utils/3.0.1/maven-shared-utils-3.0.1.jar
+2016-12-03 17:51:11,496 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/commons-io/commons-io/2.5/commons-io-2.5.jar
+2016-12-03 17:51:12,303 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/commons-io/commons-io/2.5/commons-io-2.5.jar
+2016-12-03 17:51:13,727 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2016-12-03 17:51:14,463 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-archiver/3.4/plexus-archiver-3.4.jar
+2016-12-03 17:51:15,935 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2016-12-03 17:51:16,763 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-io/2.7.1/plexus-io-2.7.1.jar
+2016-12-03 17:51:18,245 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2016-12-03 17:51:19,004 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/commons/commons-compress/1.11/commons-compress-1.11.jar
+2016-12-03 17:51:20,505 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2016-12-03 17:51:21,236 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/iq80/snappy/snappy/0.4/snappy-0.4.jar
+2016-12-03 17:51:22,693 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/tukaani/xz/1.5/xz-1.5.jar
+2016-12-03 17:51:23,493 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/tukaani/xz/1.5/xz-1.5.jar
+2016-12-03 17:51:24,924 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+2016-12-03 17:51:25,666 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/codehaus/plexus/plexus-utils/3.0.24/plexus-utils-3.0.24.jar
+2016-12-03 17:56:14,202 [Worker-32] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 17:56:14,489 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:56:14,493 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 17:56:14,497 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 17:56:14,498 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:28:23,072 [Worker-104] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-03 18:28:23,296 [Worker-104] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:28:23,593 [Worker-104] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2016-12-03 18:28:23,594 [Worker-104] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2016-12-03 18:28:23,663 [Worker-104] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-03 18:28:23,823 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:28:23,828 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:28:23,829 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:28:23,833 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:30:04,471 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:04,472 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:30:04,475 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:04,483 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:30:06,055 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:06,068 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:30:06,076 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:06,082 [Worker-122] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:30:07,826 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:07,826 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:30:07,828 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:07,841 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:30:13,843 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:13,852 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:30:13,861 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:13,869 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:30:28,371 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:28,371 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:30:28,372 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:30:28,376 [Worker-97] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:35:11,698 [Worker-112] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-03 18:35:11,717 [Worker-112] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-03 18:35:51,310 [Worker-125] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:35:51,591 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:35:51,595 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:35:51,599 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:35:51,599 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:35:52,819 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:35:52,819 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:35:52,821 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:35:52,821 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:36:05,205 [Worker-124] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-03 18:36:05,417 [Worker-124] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:36:05,511 [Worker-124] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2016-12-03 18:36:05,515 [Worker-124] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2016-12-03 18:36:05,567 [Worker-124] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-03 18:36:05,758 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:36:05,759 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:36:05,760 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:36:05,764 [Worker-112] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:42:29,966 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.jar
+2016-12-03 18:42:30,688 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.jar
+2016-12-03 18:42:30,937 [Worker-124] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:42:31,067 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:42:31,071 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:42:31,076 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:42:31,077 [Worker-124] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:42:32,636 [Worker-124] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-assembly-plugin/3.0.0/maven-assembly-plugin-3.0.0.pom
+2016-12-03 18:42:32,766 [Worker-132] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-03 18:42:32,939 [Worker-132] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:42:33,091 [Worker-132] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2016-12-03 18:42:33,095 [Worker-132] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2016-12-03 18:42:33,137 [Worker-132] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-03 18:42:33,885 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:42:33,885 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:42:33,892 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:42:33,892 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:46:01,638 [Worker-115] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:46:01,733 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:01,737 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:46:01,740 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:01,743 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:46:02,927 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:02,936 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:46:02,944 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:02,951 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:46:08,617 [Worker-129] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-12-03 18:46:08,841 [Worker-129] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:46:08,931 [Worker-129] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/main/java
+2016-12-03 18:46:08,938 [Worker-129] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /App/src/test/java
+2016-12-03 18:46:08,981 [Worker-129] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2016-12-03 18:46:09,155 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:09,155 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:46:09,156 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:09,157 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:46:54,161 [Worker-134] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:46:54,267 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:54,267 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:46:54,268 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:54,272 [Worker-134] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:46:55,422 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:55,432 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:46:55,443 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:46:55,452 [Worker-129] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:47:25,493 [Worker-137] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:47:25,637 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:47:25,637 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:47:25,642 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:47:25,645 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:47:26,810 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:47:26,810 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:47:26,822 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:47:26,831 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:48:48,791 [Worker-130] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-03 18:48:48,909 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:48:48,912 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:48:48,916 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:48:48,919 [Worker-130] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-03 18:48:50,091 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:48:50,102 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-03 18:48:50,109 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-03 18:48:50,113 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 12:22:02,506 [Worker-900] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 12:22:02,512 [Worker-900] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 12:22:02,517 [Worker-900] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 12:22:02,521 [Worker-900] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 12:22:03,578 [Worker-904] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 12:22:03,581 [Worker-904] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 12:22:03,585 [Worker-904] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 12:22:03,588 [Worker-904] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 14:31:37,692 [Worker-920] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 14:31:37,695 [Worker-920] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 14:31:37,700 [Worker-920] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 14:31:37,703 [Worker-920] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:33:20,157 [Worker-967] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:33:20,162 [Worker-967] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:33:20,167 [Worker-967] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:33:20,171 [Worker-967] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:33:44,177 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:33:44,181 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:33:44,185 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:33:44,189 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:35:23,373 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:35:23,378 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:35:23,382 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:35:23,386 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:35:26,295 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:35:26,301 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:35:26,308 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:35:26,312 [Worker-970] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:52:20,783 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:52:20,788 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:52:20,791 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:52:20,794 [Worker-966] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:52:28,639 [Worker-979] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:52:28,645 [Worker-979] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:52:28,652 [Worker-979] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:52:28,655 [Worker-979] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-05 16:52:42,775 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:52:42,781 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-05 16:52:42,787 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-05 16:52:42,791 [Worker-978] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-06 09:05:23,993 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-06 09:05:24,009 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-06 09:05:24,009 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-06 09:05:24,024 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources

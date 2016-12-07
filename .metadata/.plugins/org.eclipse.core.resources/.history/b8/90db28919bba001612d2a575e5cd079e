@@ -1,0 +1,34 @@
+package Tree.App;
+
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.JButton;
+
+/* Basic application employing swing library to generate a basic tree shape, */
+public class App extends JFrame {
+	
+	JPanel mainPanel = new JPanel();
+	JButton btnHeight = new JButton("Height:"); 
+	
+	
+	
+	public static void main (String[] args){
+		App gameInstance = new App();
+	}
+	
+	public App(){
+		super("Basic Tree Game App - Prototype");
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		setSize(600,600);
+		setResizable(true);
+		
+		
+		
+		setVisible(true);
+	}
+	
+	
+	
+	
+	
+}
