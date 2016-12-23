@@ -253,3 +253,701 @@
 2016-12-06 09:05:24,009 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
 2016-12-06 09:05:24,009 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2016-12-06 09:05:24,024 [Worker-1117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-07 18:42:52,908 [Worker-1569] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-07 18:42:52,917 [Worker-1569] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-07 18:42:52,925 [Worker-1569] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-07 18:42:52,930 [Worker-1569] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 14:13:49,985 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 14:13:49,987 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 14:13:49,992 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 14:13:49,994 [Worker-2150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:18:09,049 [Worker-2255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:18:09,054 [Worker-2255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:18:09,058 [Worker-2255] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:18:09,061 [Worker-2255] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:18:38,171 [Worker-2261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:18:38,177 [Worker-2261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:18:38,183 [Worker-2261] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:18:38,188 [Worker-2261] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:35:11,789 [Worker-2264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:35:11,793 [Worker-2264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:35:11,797 [Worker-2264] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:35:11,801 [Worker-2264] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:36:29,024 [Worker-2265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:36:29,028 [Worker-2265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:36:29,034 [Worker-2265] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:36:29,038 [Worker-2265] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:36:38,134 [Worker-2260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:36:38,138 [Worker-2260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:36:38,142 [Worker-2260] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:36:38,145 [Worker-2260] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:41:13,384 [Worker-2270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:41:13,390 [Worker-2270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:41:13,394 [Worker-2270] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:41:13,398 [Worker-2270] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:46:03,031 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:46:03,036 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:46:03,041 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:46:03,045 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:46:10,951 [Worker-2272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:46:10,954 [Worker-2272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:46:10,958 [Worker-2272] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:46:10,961 [Worker-2272] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:47:08,726 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:47:08,730 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:47:08,734 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:47:08,737 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:47:12,134 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:47:12,139 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:47:12,148 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:47:12,152 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:48:01,254 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:01,257 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:48:01,261 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:01,263 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:48:33,666 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:33,669 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:48:33,672 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:33,675 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:48:43,891 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:43,897 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:48:43,902 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:43,909 [Worker-2274] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:48:50,743 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:50,747 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:48:50,750 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:48:50,754 [Worker-2273] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:49:02,289 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:49:02,293 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:49:02,297 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:49:02,300 [Worker-2276] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:50:47,331 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:50:47,335 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:50:47,339 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:50:47,342 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:51:25,661 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:51:25,667 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:51:25,675 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:51:25,679 [Worker-2278] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:56:57,321 [Worker-2267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:56:57,325 [Worker-2267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:56:57,330 [Worker-2267] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:56:57,332 [Worker-2267] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:57:36,382 [Worker-2282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:57:36,385 [Worker-2282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:57:36,390 [Worker-2282] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:57:36,394 [Worker-2282] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 22:58:09,560 [Worker-2279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:58:09,567 [Worker-2279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 22:58:09,573 [Worker-2279] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 22:58:09,577 [Worker-2279] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:06:59,742 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:06:59,748 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:06:59,754 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:06:59,757 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:07:06,155 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:07:06,159 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:07:06,163 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:07:06,167 [Worker-2284] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:07:35,636 [Worker-2285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:07:35,639 [Worker-2285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:07:35,642 [Worker-2285] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:07:35,645 [Worker-2285] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:08:08,535 [Worker-2286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:08:08,539 [Worker-2286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:08:08,542 [Worker-2286] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:08:08,544 [Worker-2286] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:09:50,836 [Worker-2288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:09:50,839 [Worker-2288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:09:50,842 [Worker-2288] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:09:50,845 [Worker-2288] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:15:49,690 [Worker-2292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:15:49,695 [Worker-2292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:15:49,699 [Worker-2292] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:15:49,702 [Worker-2292] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:15:56,141 [Worker-2293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:15:56,147 [Worker-2293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:15:56,152 [Worker-2293] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:15:56,154 [Worker-2293] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:16:59,580 [Worker-2289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:16:59,585 [Worker-2289] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:16:59,589 [Worker-2289] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:16:59,593 [Worker-2289] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-09 23:17:26,353 [Worker-2295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:17:26,361 [Worker-2295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-09 23:17:26,368 [Worker-2295] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-09 23:17:26,374 [Worker-2295] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:32:39,354 [Worker-3038] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.pom
+2016-12-11 16:32:40,822 [Worker-3038] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/enforcer/enforcer/1.4.1/enforcer-1.4.1.pom
+2016-12-11 16:32:42,243 [Worker-3038] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.jar
+2016-12-11 16:32:43,069 [Worker-3038] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://jos-repo-server.datacom.co.nz/archiva/repository/datacom.unified/org/apache/maven/plugins/maven-enforcer-plugin/1.4.1/maven-enforcer-plugin-1.4.1.jar
+2016-12-11 16:32:44,723 [Worker-3038] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-11 16:32:44,975 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:32:44,979 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:32:44,983 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:32:44,984 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:32:46,282 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:32:46,282 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:32:46,284 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:32:46,284 [Worker-3038] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:36:10,813 [Worker-3037] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-11 16:36:10,913 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:36:10,917 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:36:10,920 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:36:10,924 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:37:39,613 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:37:39,614 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:37:39,615 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:37:39,628 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:38:16,597 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:38:16,603 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:38:16,608 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:38:16,612 [Worker-3037] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:43:31,427 [Worker-3056] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-11 16:43:31,516 [Worker-3056] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:43:31,516 [Worker-3056] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:43:31,521 [Worker-3056] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:43:31,524 [Worker-3056] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:44:20,303 [Worker-3062] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-11 16:44:20,448 [Worker-3062] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:44:20,451 [Worker-3062] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:44:20,454 [Worker-3062] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:44:20,457 [Worker-3062] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:51:15,523 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-11 16:51:15,728 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:15,728 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:51:15,730 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:15,730 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:51:18,268 [Worker-18] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Tree:App:0.0.1-SNAPSHOT @ C:\Users\SamA.DATACOM-NZ\TreeRepo\App\pom.xml.
+2016-12-11 16:51:18,345 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:18,346 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:51:18,347 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:18,348 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:51:27,405 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SamA.DATACOM-NZ\TreeRepo\App
+2016-12-11 16:51:27,406 [Worker-16] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2016-12-11 16:51:28,701 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:28,701 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:51:28,702 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:28,702 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:51:43,268 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\SamA.DATACOM-NZ\TreeRepo\App
+2016-12-11 16:51:43,268 [Worker-18] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2016-12-11 16:51:44,903 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:44,904 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:51:44,909 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:51:44,914 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 16:58:35,604 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:58:35,604 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 16:58:35,610 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 16:58:35,614 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:18:56,879 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:18:56,880 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:18:56,884 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:18:56,888 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:19:02,355 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:19:02,355 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:19:02,361 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:19:02,365 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:20:20,834 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:20:20,834 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:20:20,839 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:20:20,843 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:20:45,281 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:20:45,281 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:20:45,286 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:20:45,289 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:21:06,768 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:21:06,768 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:21:06,776 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:21:06,782 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:21:25,608 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:21:25,608 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:21:25,612 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:21:25,615 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:28:43,830 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:28:43,830 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:28:43,835 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:28:43,839 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:29:26,160 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:29:26,160 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:29:26,166 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:29:26,169 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:30:22,323 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:30:22,323 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:30:22,328 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:30:22,331 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:30:43,973 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:30:43,974 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:30:43,981 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:30:43,985 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:30:54,260 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:30:54,260 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:30:54,267 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:30:54,272 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-11 17:31:04,992 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:31:04,992 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-11 17:31:04,997 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-11 17:31:05,001 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-12 15:11:09,678 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-12 15:11:09,680 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-12 15:11:09,686 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-12 15:11:09,690 [Worker-385] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-14 16:22:23,159 [Worker-1184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-14 16:22:23,160 [Worker-1184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-14 16:22:23,166 [Worker-1184] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-14 16:22:23,169 [Worker-1184] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-15 13:11:01,203 [Worker-1670] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-15 13:11:01,204 [Worker-1670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-15 13:11:01,211 [Worker-1670] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-15 13:11:01,215 [Worker-1670] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:35:18,121 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:35:18,124 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:35:18,125 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:35:18,125 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:35:54,529 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:35:54,530 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:35:54,531 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:35:54,531 [Worker-23] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:37:43,374 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:37:43,375 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:37:43,376 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:37:43,376 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:38:05,695 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:38:05,696 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:38:05,697 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:38:05,697 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:39:41,522 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:39:41,523 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:39:41,524 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:39:41,524 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:39:48,138 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:39:48,142 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:39:48,146 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:39:48,146 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:53:53,756 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:53:53,756 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:53:53,757 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:53:53,757 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:55:55,098 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:55:55,103 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:55:55,114 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:55:55,114 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:55:59,759 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:55:59,761 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:55:59,762 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:55:59,762 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:57:46,924 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:57:46,931 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:57:46,936 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:57:46,937 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:57:55,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:57:55,610 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:57:55,611 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:57:55,611 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:58:36,190 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:58:36,196 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:58:36,201 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:58:36,201 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:58:59,801 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:58:59,801 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:58:59,802 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:58:59,802 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:59:10,218 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:59:10,222 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:59:10,227 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:59:10,227 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 21:59:16,464 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:59:16,464 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 21:59:16,465 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 21:59:16,465 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:00:00,833 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:00:00,838 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:00:00,845 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:00:00,845 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:00:24,704 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:00:24,704 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:00:24,706 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:00:24,706 [Worker-27] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:00:47,274 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:00:47,280 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:00:47,286 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:00:47,286 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:02:49,728 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:02:49,728 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:02:49,729 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:02:49,729 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:03:39,563 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:03:39,567 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:03:39,570 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:03:39,570 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:04:07,039 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:07,039 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:04:07,040 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:07,040 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:04:23,999 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:24,005 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:04:24,010 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:24,010 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:04:26,108 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:26,108 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:04:26,109 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:26,109 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:04:54,444 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:54,450 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:04:54,456 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:54,456 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:04:57,049 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:57,049 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:04:57,050 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:04:57,050 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:05:06,009 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:06,015 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:05:06,020 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:06,020 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:05:10,761 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:10,761 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:05:10,762 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:10,762 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:05:26,130 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:26,138 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:05:26,144 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:26,144 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:05:38,570 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:38,570 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:05:38,571 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:38,571 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:05:52,050 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:52,056 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:05:52,061 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:05:52,061 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:06:25,221 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:06:25,221 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:06:25,222 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:06:25,222 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:06:36,290 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:06:36,294 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:06:36,298 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:06:36,299 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:07:06,685 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:06,685 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:07:06,686 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:06,686 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:07:33,298 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:33,303 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:07:33,308 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:33,309 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:07:47,192 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:47,193 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:07:47,195 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:47,195 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:07:51,761 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:51,768 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:07:51,775 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:51,775 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:07:59,631 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:59,631 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:07:59,631 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:07:59,631 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:08:41,589 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:41,595 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:08:41,601 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:41,601 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:08:48,735 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:48,735 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:08:48,736 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:48,736 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:08:51,183 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:51,189 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:08:51,194 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:51,194 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:08:57,224 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:57,224 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:08:57,225 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:08:57,225 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:09:04,231 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:09:04,239 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:09:04,246 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:09:04,246 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:13:46,756 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:13:46,756 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:13:46,757 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:13:46,757 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:13:53,279 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:13:53,284 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:13:53,290 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:13:53,290 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:14:25,768 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:14:25,768 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:14:25,769 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:14:25,770 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:15:21,499 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:15:21,506 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:15:21,511 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:15:21,511 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:15:26,201 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:15:26,201 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:15:26,202 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:15:26,202 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:16:26,273 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:16:26,284 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:16:26,290 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:16:26,290 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:16:48,577 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:16:48,577 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:16:48,578 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:16:48,578 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:17:02,423 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:17:02,429 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:17:02,435 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:17:02,435 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:17:32,891 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:17:32,891 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:17:32,891 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:17:32,892 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:17:39,858 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:17:39,864 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:17:39,870 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:17:39,871 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:18:05,039 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:18:05,039 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:18:05,040 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:18:05,041 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:18:19,494 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:18:19,499 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:18:19,504 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:18:19,504 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:18:35,136 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:18:35,136 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:18:35,137 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:18:35,138 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:19:54,549 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:19:54,556 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:19:54,560 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:19:54,560 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:21:36,480 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:21:36,480 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:21:36,481 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:21:36,481 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:40:07,572 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:40:07,577 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:40:07,581 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:40:07,581 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:50:04,865 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:50:04,866 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:50:04,867 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:50:04,867 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:52:40,441 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:52:40,449 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:52:40,454 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:52:40,454 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:53:00,129 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:53:00,129 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:53:00,130 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:53:00,130 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:54:14,473 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:54:14,479 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:54:14,483 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:54:14,483 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:56:49,238 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:56:49,238 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:56:49,239 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:56:49,239 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 22:57:02,882 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:57:02,885 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 22:57:02,889 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 22:57:02,889 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 23:01:11,813 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:01:11,813 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 23:01:11,815 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:01:11,815 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 23:01:24,876 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:01:24,884 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 23:01:24,891 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:01:24,891 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-17 23:01:55,415 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:01:55,415 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-17 23:01:55,416 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-17 23:01:55,416 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 16:43:33,302 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:43:33,304 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 16:43:33,306 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:43:33,306 [Worker-19] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 16:45:34,116 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:45:34,117 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 16:45:34,118 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:45:34,118 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 16:46:13,939 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:46:13,939 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 16:46:13,940 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:46:13,940 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 16:49:21,502 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:49:21,502 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 16:49:21,503 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:49:21,503 [Worker-21] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 16:51:54,988 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:51:54,988 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 16:51:54,988 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:51:54,988 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 16:54:33,332 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:54:33,336 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 16:54:33,340 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 16:54:33,340 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:25:35,064 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:25:35,065 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:25:35,065 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:25:35,065 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:26:24,366 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:26:24,370 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:26:24,374 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:26:24,374 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:26:51,281 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:26:51,282 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:26:51,282 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:26:51,282 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:27:28,660 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:27:28,666 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:27:28,671 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:27:28,671 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:27:33,009 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:27:33,010 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:27:33,011 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:27:33,011 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:30:07,515 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:30:07,520 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:30:07,526 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:30:07,526 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:30:12,616 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:30:12,616 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:30:12,617 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:30:12,618 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:31:49,783 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:31:49,789 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:31:49,795 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:31:49,795 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:32:32,858 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:32:32,858 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:32:32,859 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:32:32,859 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:33:09,709 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:33:09,713 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:33:09,717 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:33:09,717 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:33:20,237 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:33:20,237 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:33:20,238 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:33:20,238 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:34:05,794 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:34:05,798 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:34:05,802 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:34:05,802 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:34:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:34:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:34:11,372 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:34:11,373 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:35:03,993 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:35:04,000 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:35:04,004 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:35:04,004 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:37:53,270 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:37:53,270 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:37:53,270 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:37:53,270 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:37:58,748 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:37:58,753 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:37:58,758 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:37:58,758 [Worker-163] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:38:07,815 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:38:07,816 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:38:07,816 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:38:07,817 [Worker-171] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:39:36,199 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:39:36,204 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:39:36,209 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:39:36,209 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:42:38,354 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:42:38,354 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:42:38,355 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:42:38,355 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:43:04,207 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:43:04,211 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:43:04,214 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:43:04,214 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:43:41,460 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:43:41,461 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:43:41,461 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:43:41,461 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:44:41,134 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:44:41,138 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:44:41,141 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:44:41,142 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:44:55,216 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:44:55,216 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:44:55,217 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:44:55,217 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:45:05,826 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:45:05,830 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:45:05,833 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:45:05,834 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:45:53,510 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:45:53,510 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:45:53,511 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:45:53,511 [Worker-165] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:46:10,681 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:46:10,685 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:46:10,689 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:46:10,689 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:46:27,580 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:46:27,580 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:46:27,580 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:46:27,580 [Worker-172] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:49:56,200 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:49:56,205 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:49:56,209 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:49:56,210 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:52:08,712 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:52:08,712 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:52:08,713 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:52:08,714 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:52:22,621 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:52:22,632 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:52:22,642 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:52:22,642 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:52:45,934 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:52:45,934 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:52:45,935 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:52:45,935 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:53:02,790 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:53:02,799 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:53:02,807 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:53:02,807 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:54:39,935 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:54:39,935 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:54:39,935 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:54:39,935 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:56:34,729 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:56:34,734 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:56:34,738 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:56:34,738 [Worker-166] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:56:59,450 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:56:59,450 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:56:59,450 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:56:59,451 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:57:12,477 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:57:12,480 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:57:12,484 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:57:12,484 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:57:14,534 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:57:14,534 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:57:14,535 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:57:14,535 [Worker-179] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:57:17,577 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:57:17,580 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:57:17,583 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:57:17,584 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:58:04,802 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:58:04,803 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:58:04,804 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:58:04,804 [Worker-175] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
+2016-12-18 22:59:01,864 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:59:01,868 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\main\resources
+2016-12-18 22:59:01,872 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-12-18 22:59:01,872 [Worker-178] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\SamA.DATACOM-NZ\TreeRepo\App\src\test\resources
