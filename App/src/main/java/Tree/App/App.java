@@ -5,8 +5,12 @@ import java.awt.Dimension;
 import java.awt.EventQueue;
 import java.awt.Graphics;
 import java.awt.Graphics2D;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 import java.awt.event.KeyEvent;
 import java.awt.geom.Line2D;
+import java.util.List;
+import java.util.Queue;
 
 import javax.swing.BorderFactory;
 import javax.swing.BoxLayout;
@@ -16,7 +20,7 @@ import javax.swing.JPanel;
 import javax.swing.JTextField;
 
 /* Basic application employing swing library to generate a basic tree shape, */
-public class App extends JFrame {
+public class App extends JFrame implements ActionListener {
 
 	// Panels
 	JPanel mainPanel = new JPanel();
@@ -29,23 +33,14 @@ public class App extends JFrame {
 	// Fields
 	JTextField txtFieldLineHeight = new JTextField(5);
 
-	public static void main(String[] args) {
+	BasicTreeImpl tree, tree2;
 
-		System.out.println("CREATING TREEE");
-		BinaryTreeImpl tree = new BinaryTreeImpl();
-		tree.addNode(7);
-		tree.addNode(5);
-		tree.addNode(4);
-		tree.addNode(6);
-		tree.addNode(9);
-		tree.addNode(8);
-		tree.addNode(10);
-		tree.addNode(1);
-		tree.printTreeInOrder();
+	public static void main(String[] args) {
 
 		EventQueue.invokeLater(() -> {
 			try {
 				App gameInstance = new App();
+				gameInstance.initTree();
 				gameInstance.setVisible(true);
 			} catch (Exception e) {
 				e.printStackTrace();
@@ -70,9 +65,7 @@ public class App extends JFrame {
 
 	private void initBtnActions() {
 		btnDrawTree.setMnemonic(KeyEvent.VK_D);
-		btnDrawTree.addActionListener(null);
-
-		//
+		btnDrawTree.addActionListener(this);
 	}
 
 	private void populateElements() {
@@ -98,10 +91,87 @@ public class App extends JFrame {
 
 	public void paint(Graphics g) {
 		super.paint(g);
+		paintTree(g);
+		paintTree2(g);	
 
-		Graphics2D g2d = (Graphics2D) g;
-		Line2D treeTrunk = new Line2D.Float(100, 100, 100, 200);
-		g2d.draw(treeTrunk);
+	}
+	
+	public void paintTree(Graphics g){
+		List<Node> depthFirstTree = tree.getTreeAsArray();
+		for(Node n : depthFirstTree){
+			drawCircle(g, n.getX(), n.getY(), 2);
+			for(Node c : n.getChildren()){
+				if (c != null)
+					drawLine(g, n.getX(), n.getY(), c.getX(), c.getY());
+					try {
+						Thread.sleep(10);
+					} catch(InterruptedException ie){
+						System.err.println("GAYYYY");
+						System.exit(1);
+					}
+			}
+		}
+		
+	}
+	
+	public void paintTree2(Graphics g){
+		List<Node> depthFirstTree = tree2.getTreeAsArray();
+		for(Node n : depthFirstTree){
+			drawCircle(g, n.getX(), n.getY(), 2);
+			for(Node c : n.getChildren()){
+				if (c != null)
+					drawLine(g, n.getX(), n.getY(), c.getX(), c.getY());
+					try {
+						Thread.sleep(10);
+					} catch(InterruptedException ie){
+						System.err.println("GAYYYY");
+						System.exit(1);
+					}
+			}
+		}
+		
 	}
 
+
+	public void initTree(){
+		tree = new BasicTreeImpl();
+		int treeSize = (int)(Math.random() * 100);
+		System.out.println("Tree size: " + treeSize);
+		for(int i=0; i<treeSize; i++){
+			tree.addNode((int)(Math.random()*1000));
+		}		
+	}
+	
+	public void initTree2(){
+		tree2 = new BasicTreeImpl();
+		int treeSize = (int)(Math.random() * 100);
+		System.out.println("Tree2 size: " + treeSize);
+		for(int i=0; i<treeSize; i++){
+			tree.addNode((int)(Math.random()*1000));
+		}		
+	}
+	
+	public void drawCircle(Graphics g, int x, int y, int radius) {
+		  int diameter = radius * 2;
+		  //shift x and y by the radius of the circle in order to correctly center it
+		  g.fillOval(x - radius, y - radius, diameter, diameter); 
+
+		}
+	
+	/* Method currently pointless. Added for later functionality i.e. drawing lines will be more complex */
+	public void drawLine(Graphics g, int x, int y, int childX, int childY) {
+		  g.drawLine(x, y, childX, childY);
+
+		}
+	
+	@Override
+	public void actionPerformed(ActionEvent ae) {
+		initTree();
+		initTree2();
+		repaint();
+		
+	}
+	
+	
+	
 }

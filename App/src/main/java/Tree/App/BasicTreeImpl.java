@@ -1,9 +1,11 @@
 package Tree.App;
 
+import java.util.ArrayList;
 import java.util.LinkedList;
+import java.util.List;
 import java.util.Queue;
 
-public class BinaryTreeImpl {
+public class BasicTreeImpl {
 
 	private Node root;
 
@@ -32,45 +34,23 @@ public class BinaryTreeImpl {
 		else
 			return searchTree(node.getLeftChild(), value);
 	}
-
-	public String printTree(Node node) {
-		if (node == null)
-			return null;
-		else
-			System.out.println(node.getValue());
-		return node.toString() + printTree(node.getLeftChild()) + printTree(node.getRightChild());
-	}
-
-	public void printTreeInOrder() {
-		Queue<Node> q = new LinkedList<Node>();
-		if (root != null)
-			q.add(root);
-		while (!q.isEmpty()) {
-			Node n = q.remove();
-			System.out.println(n.toString());
-			if (n.getLeftChild() != null)
-				q.add(n.getLeftChild());
-			if (n.getRightChild() != null)
-				q.add(n.getRightChild());
-		}
-	}
 	
-	public Queue<Integer> getCoordsInOrder() {
+	public List<Node> getTreeAsArray(){
 		Queue<Node> q = new LinkedList<Node>();
-		Queue<Integer> coords = new LinkedList<Integer>();
-		if (root != null)
+		List<Node> treeList = new ArrayList<Node>();
+		Node n = null;
+		
+		if(root != null)
 			q.add(root);
-		while (!q.isEmpty()) {
-			Node n = q.remove();
-			System.out.println("X= " + n.getX() + " Y=" + n.getY());
-			coords.add(n.getX());
-			coords.add(n.getY());
+		while(!q.isEmpty()){
+			n = q.remove();
+			treeList.add(n);
 			if (n.getLeftChild() != null)
 				q.add(n.getLeftChild());
 			if (n.getRightChild() != null)
 				q.add(n.getRightChild());
 		}
-		return coords;
+		return treeList;
 	}
 
 	/*
